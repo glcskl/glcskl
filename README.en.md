@@ -1,6 +1,6 @@
 # Gleb Tokar
 
-4th-year student of Electronic Economics, VSTU. Founder of [workdo.ru](https://www.workdo.ru).
+4th-year student of Electronic Economics, VSTU. Co-founder of [workdo.ru](https://www.workdo.ru).
 
 [Русская версия](README.md)
 
