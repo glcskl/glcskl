@@ -6,7 +6,7 @@
 
 [Т-Банк, 1 место](https://github.com/glcskl/hackathontbankminsk) — планировщик питания
 [МТС IaaS, финалист](https://github.com/glcskl/Mtsclouds) — мультиарендная облачная платформа
-[МТС Android, финалист](https://github.com/glcskl/hackathonspacemtsminsk) — обмен с устройствами по HTTP и MQTT
+[МТС, финалист](https://github.com/glcskl/hackathonspacemtsminsk) — обмен с устройствами по HTTP и MQTT
 [Great Stone, полуфиналист](https://github.com/glcskl/hackathongreatstoneminsk) — контроль промышленной безопасности
 [Геймификация, топ-5](https://github.com/glcskl/hackathoninnowisegomel) — прогресс и награды в обучении
 
