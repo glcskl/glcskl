@@ -56,7 +56,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glcskl&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glcskl&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
