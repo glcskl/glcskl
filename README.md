@@ -31,10 +31,10 @@
 | --- | --- |
 | [workdo.ru](https://www.workdo.ru) | SaaS для малого бизнеса: сотрудники, смены, зарплаты, финансы |
 | [iaai](https://github.com/glcskl/iaai) | Нейросети с нуля на чистом NumPy: forward, backprop, обучение |
-| [vstu-schedule-bot](https://github.com/glcskl/vstu-schedule-bot) | Бот расписания ВГТУ: чётная/нечётная неделя, экзамены |
-| [spbgasu-schedule-bot](https://github.com/glcskl/spbgasu-schedule-bot) | Бот расписания СПбГАСУ с парсингом CSV |
-| [photo-text-bot](https://github.com/glcskl/photo-text-bot) | Стилизованный текст на фото прямо в Telegram |
-| [fitness-stars-bot](https://github.com/glcskl/fitness-stars-bot) | Фитнес-контент за оплату Telegram Stars |
+| [tg1](https://github.com/glcskl/tg1) | Бот расписания ВГТУ: чётная/нечётная неделя, экзамены |
+| [tg2](https://github.com/glcskl/tg2) | Бот расписания СПбГАСУ с парсингом CSV |
+| [tg3](https://github.com/glcskl/tg3) | Стилизованный текст на фото прямо в Telegram |
+| [tg4](https://github.com/glcskl/tg4) | Фитнес-контент за оплату Telegram Stars |
 | [pitchdesk](https://github.com/glcskl/pitchdesk) | Презентация стартапа в одном HTML-файле |
 
 ## Стек
