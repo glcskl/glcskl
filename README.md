@@ -1,4 +1,4 @@
-<h1 align="center">Глеб Токар</h1>
+<h1 align="center">Глеб Токарь</h1>
 
 <p align="center">
   <b>Программист-экономист, 4 курс ВГТУ</b> · CEO и сооснователь <a href="https://www.workdo.ru">workdo.ru</a> · руководитель филиала «StartUp Space VSTU»
