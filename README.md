@@ -1,25 +1,62 @@
-Студент 4 курса «Электронная экономика» ВГТУ, программист-экономист. CEO и сооснователь workdo.ru, руководитель филиала «StartUp Space VSTU». Участвую и побеждаю в хакатонах, делаю проекты и расту.
+<h1 align="center">Глеб Токар</h1>
 
-## Проекты
+<p align="center">
+  <b>Программист-экономист, 4 курс ВГТУ</b> · CEO и сооснователь <a href="https://www.workdo.ru">workdo.ru</a> · руководитель филиала «StartUp Space VSTU»
+</p>
 
-Хакатоны
+<p align="center">
+  Делаю продукты от идеи до релиза: бэкенд, фронтенд, Telegram-боты, Android.<br>
+  Участвую в хакатонах — и побеждаю в них.
+</p>
 
-[Т-Банк, 1 место](https://github.com/glcskl/hackathontbankminsk) — планировщик питания
-[МТС IaaS, финалист](https://github.com/glcskl/Mtsclouds) — мультиарендная облачная платформа
-[МТС, финалист](https://github.com/glcskl/hackathonspacemtsminsk) — обмен с устройствами по HTTP и MQTT
-[Great Stone, полуфиналист](https://github.com/glcskl/hackathongreatstoneminsk) — контроль промышленной безопасности
-[Геймификация, топ-5](https://github.com/glcskl/hackathoninnowisegomel) — прогресс и награды в обучении
+<p align="center">
+  <a href="https://github.com/glcskl/accomplishments"><img src="https://img.shields.io/badge/портфолио-дипломы%20и%20публикации-181717" alt="Портфолио"></a>
+  <a href="https://t.me/glebentired"><img src="https://img.shields.io/badge/Telegram-%40glebentired-181717?logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.workdo.ru"><img src="https://img.shields.io/badge/workdo.ru-181717" alt="workdo.ru"></a>
+</p>
 
-Личные
+## Хакатоны
 
-[iaai](https://github.com/glcskl/iaai) — нейросети с нуля на чистом NumPy
-[tg1](https://github.com/glcskl/tg1) — бот расписания ВГТУ
-[tg2](https://github.com/glcskl/tg2) — бот расписания СПбГАСУ
-[tg3](https://github.com/glcskl/tg3) — стилизованный текст на фото
-[tg4](https://github.com/glcskl/tg4) — фитнес-бот с оплатой Telegram Stars
-[pitchdesk](https://github.com/glcskl/pitchdesk) — презентация в одном HTML-файле
-[lendingtest](https://github.com/glcskl/lendingtest) — лендинг-платформа на Next.js
+| Результат | Проект | Стек |
+| --- | --- | --- |
+| **1 место** — [Т-Банк](https://github.com/glcskl/hackathontbankminsk) | Планировщик питания: меню, рецепты, автосписок покупок | React Native, FastAPI, PostgreSQL, Docker |
+| **Финалист** — [МТС IaaS](https://github.com/glcskl/Mtsclouds) | Мультиарендная облачная платформа: изоляция тенантов, квоты, VM | React, TypeScript, Docker |
+| **Финалист** — [МТС](https://github.com/glcskl/hackathonspacemtsminsk) | Обмен с устройствами по HTTP и MQTT | Java, Android |
+| **Полуфиналист** — [Great Stone](https://github.com/glcskl/hackathongreatstoneminsk) | Контроль промышленной безопасности | Telegram Mini App |
+| **Топ-5** — [Геймификация](https://github.com/glcskl/hackathoninnowisegomel) | Прогресс и награды в обучении | Java, Kotlin, Android |
+
+## Личные проекты
+
+| Проект | Что это |
+| --- | --- |
+| [workdo.ru](https://www.workdo.ru) | SaaS для малого бизнеса: сотрудники, смены, зарплаты, финансы |
+| [iaai](https://github.com/glcskl/iaai) | Нейросети с нуля на чистом NumPy: forward, backprop, обучение |
+| [vstu-schedule-bot](https://github.com/glcskl/vstu-schedule-bot) | Бот расписания ВГТУ: чётная/нечётная неделя, экзамены |
+| [spbgasu-schedule-bot](https://github.com/glcskl/spbgasu-schedule-bot) | Бот расписания СПбГАСУ с парсингом CSV |
+| [photo-text-bot](https://github.com/glcskl/photo-text-bot) | Стилизованный текст на фото прямо в Telegram |
+| [fitness-stars-bot](https://github.com/glcskl/fitness-stars-bot) | Фитнес-контент за оплату Telegram Stars |
+| [pitchdesk](https://github.com/glcskl/pitchdesk) | Презентация стартапа в одном HTML-файле |
+
+## Стек
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-EA2D2E?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+</p>
 
 ## Контакты
 
 [Telegram](https://t.me/glebentired) · [почта](mailto:glebentired6063@gmail.com) · [workdo.ru](https://www.workdo.ru)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glcskl&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glcskl&layout=compact&hide_border=true" alt="Top languages" height="165">
+</p>
